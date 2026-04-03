@@ -1,5 +1,6 @@
 # Objektorientierte Programmierung C++
 
+> **Disclaimer & Attribution:** The assignment structures, starter code, and structural files within this repository were provided by the [University of Duisburg-Essen (vs.ude)](https://git.uni-due.de/vs.ude/objektorientierte-programmierung-cpp). My own contributions include the completed exercises and solutions.
 
 # Test
 
