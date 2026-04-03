@@ -279,3 +279,19 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.toptal.com/developers/gitignore/api/c++,c,macos,clion,linux,windows,cmake
+
+### Custom Ignore Rules ###
+build/
+test_2s_complement
+test_bits
+hello_world
+main
+Exercise_05
+Exercise_06
+EncapsulationTest
+Exercise_08
+Exercise_09
+Exercise_10
+Exercise_11
+04_Exercise
+E

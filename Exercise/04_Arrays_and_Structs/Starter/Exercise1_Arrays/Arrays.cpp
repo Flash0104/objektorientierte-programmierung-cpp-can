@@ -37,9 +37,8 @@ int contains_binary_search(double list[], int length, double target){
         }
         if(list[mid]<target){
             low = mid + 1;
-        }
-        if(list[mid]>target){
-            high = mid - 1;
+        } else {
+            high = mid;
         }
     }
     return -1;
