@@ -294,4 +294,9 @@ Exercise_09
 Exercise_10
 Exercise_11
 04_Exercise
-E
+
+### Environment variables
+.env
+.venv
+.vscode
+.history

@@ -1,3 +1,8 @@
 {
-    "cmake.ignoreCMakeListsMissing": true
+    "cmake.ignoreCMakeListsMissing": true,
+    "c-cpp-compile-run.mirror-output-location": false,
+    "c-cpp-compile-run.output-location": "${workspaceFolder}",
+    "files.exclude": {
+        "**/*.dSYM": true
+    }
 }
